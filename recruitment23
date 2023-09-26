@@ -1,4 +1,28 @@
-###  Everything I've studied till now;
+## Everything I've gone through for the Second Phase of Recruitment:
 
-  Been able to do tasks using TinkerCAD, HTML, Python, Automotive, Arduino.
+    HTML:
+        Went thorugh s small course that taught me how to use the basics and helped me make a website with some help. I was able to use the basic data structures and so on to build a simple website using HTML.
+
+    Automotive:
+        Car Hacking Handbook:
+                The first 3 chapters were read through and figured out.
+                The whole model/item that we're trying to hack inot or get access inot has to be looked into through all the ways in order to get a clear vision on what to be misused/ fixed.
+                It can be used to remotely take over a vehicle. Unlock a vehicle, Track a vehicle, etc....
+                Different companies/ different countries choose different connections to make cars different and different to access.
+                A few examples are Chrysler, Ford, USA, UK, etc...
+
+    Embedded:
+        Arduino:
+            The basics of Arduino and bread board were learnt using yt as the main source.
+            Wasn't able to learn C or any other languages (except for HTML and Python).
+            Might be learning more for a project that i will be doing.
+
+    picoCTF:
+        Irish-Repo-1 and Cookie monster were done with the help of the igven hints.
+        None of the challenges could be done by myself. I was able to learn more about the different places to store things and explore more about it.
+
+    TinkerCAD:
+        Used the software in order to create simple circuits.
+        The given tasks felt a little difficult regarding the colour changing when a button is pressed.
+
 
